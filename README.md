@@ -1,4 +1,4 @@
-# Objetosc_z_punktow
+# Objetosc z punktow
 Program działa następująco
 1. Zaczytuje dane XYZ
 2. Towrzy jak najbardziej zamknięty obiekt STL
