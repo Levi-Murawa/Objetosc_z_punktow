@@ -8,7 +8,7 @@ sphere_spiral_700.xyz - to przykładowy plik zawierający 700 punktów kuli o pr
 
 **Wymagane**
 Program korzysta z biblioteki Open3d w wersji 0.11 (może być nowsza) oraz numpy-stl (wersja dowolna)
-
+Open3d: http://www.open3d.org/docs/0.11.0/introduction.html
 
 # Volume from points
 The program works as follows
@@ -20,4 +20,12 @@ sphere_spiral_700.xyz - is an example file containing 700 points of a sphere of 
 
 **Required**
 The program uses Open3d library version 0.11 (can be newer) and numpy-stl (any version)
+Open3d: http://www.open3d.org/docs/0.11.0/introduction.html
 
+
+@article{Zhou2018,
+   author  = {Qian-Yi Zhou and Jaesik Park and Vladlen Koltun},
+   title   = {{Open3D}: {A} Modern Library for {3D} Data Processing},
+   journal = {arXiv:1801.09847},
+   year    = {2018},
+}
