@@ -6,7 +6,7 @@ Program działa następująco
 
 sphere_spiral_700.xyz - to przykładowy plik zawierający 700 punktów kuli o promieniu 1
 
-#Wymagane
+**Wymagane**
 Program korzysta z biblioteki Open3d w wersji 0.11 (może być nowsza) oraz numpy-stl (wersja dowolna)
 
 
@@ -18,6 +18,6 @@ The program works as follows
 
 sphere_spiral_700.xyz - is an example file containing 700 points of a sphere of radius 1
 
-#Required
+**Required**
 The program uses Open3d library version 0.11 (can be newer) and numpy-stl (any version)
 
