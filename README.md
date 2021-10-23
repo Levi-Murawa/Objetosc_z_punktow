@@ -24,4 +24,5 @@ Open3d: http://www.open3d.org/docs/0.11.0/introduction.html
 
 
 Open3d article:
+
 Qian-Yi Zhou and Jaesik Park and Vladlen Koltun, _Open3D: {A} Modern Library for {3D} Data Processing_, arXiv:1801.09847, 2018
